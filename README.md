@@ -3,6 +3,8 @@
 
 Bienvenue dans le répertoire de mon cours Unreal Engine Blueprint sur la création d’un jeu de survie ! Ce projet présente diverses mécaniques de survie et systèmes dynamiques développés avec Unreal Engine 4.27. Vous trouverez ci-dessous une description détaillée des fonctionnalités implémentées et des instructions de configuration.
 
+<img src="unreal.png"/>
+
 ---
 
 ## Fonctionnalités
